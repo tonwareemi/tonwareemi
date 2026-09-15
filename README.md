@@ -72,17 +72,9 @@ A TypeScript frontend for a wallet-tracking application, including functionality
 
 ---
 
-## 💡 My Approach
-
-I like building software that is:
-
-**Simple → Useful → Scalable → Maintainable**
-
-I'm constantly learning, experimenting with new technologies, and turning ideas into working products.
-
----
-
 ## 🤝 Let's Connect
+
+📧 **Email:** [tonwareemizakana@gmail.com](mailto:tonwareemizakana@gmail.com)
 
 🌐 **Portfolio:** [zakana.vercel.app](https://zakana.vercel.app)
 
